@@ -1342,6 +1342,8 @@ document.querySelector('.form-subscribe__checkbox_agree').addEventListener('chan
   }
 })
 
+console.log('Test');
+
 
 //let btn = document.querySelectorAll('button[type="submit"],input[type="submit"]');
 let forms = document.querySelectorAll('form');
